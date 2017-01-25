@@ -1,0 +1,2 @@
+# AppFriends.Lib
+NuGet Package
