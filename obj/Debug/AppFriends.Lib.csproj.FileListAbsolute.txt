@@ -1,0 +1,13 @@
+d:\users\patrick\documents\visual studio 2015\Projects\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.dll
+d:\users\patrick\documents\visual studio 2015\Projects\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.pdb
+d:\users\patrick\documents\visual studio 2015\Projects\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.dll
+d:\users\patrick\documents\visual studio 2015\Projects\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.pdb
+D:\Users\Patrick\Documents\WeL Leren\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.dll
+D:\Users\Patrick\Documents\WeL Leren\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.pdb
+D:\Users\Patrick\Documents\WeL Leren\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.csprojResolveAssemblyReference.cache
+D:\Users\Patrick\Documents\WeL Leren\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.dll
+D:\Users\Patrick\Documents\WeL Leren\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.pdb
+D:\Users\Patrick\Documents\WeL Leren\WeL Leren\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.dll
+D:\Users\Patrick\Documents\WeL Leren\WeL Leren\AppFriends\AppFriends.Lib\obj\Debug\AppFriends.Lib.pdb
+D:\Users\Patrick\Documents\WeL Leren\WeL Leren\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.dll
+D:\Users\Patrick\Documents\WeL Leren\WeL Leren\AppFriends\AppFriends.Lib\bin\Debug\AppFriends.Lib.pdb
