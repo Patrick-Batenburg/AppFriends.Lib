@@ -1,5 +1,7 @@
 # AppFriends.Lib
 NuGet Package
+[Package link](https://www.nuget.org/packages/ZPatrick.Utility.AppFriends/)
+
 
 ```c#
 /// <summary>
